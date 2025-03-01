@@ -14,6 +14,18 @@
             "state" : "translated",
             "value" : "इनबॉक्स"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inbox"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mesaj Kutusu"
+          }
         }
       }
     },
@@ -101,6 +113,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сохранить"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yeni Note"
           }
         },
         "uk" : {
